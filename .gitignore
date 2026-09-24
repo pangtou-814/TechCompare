@@ -5,4 +5,5 @@ venv/
 .DS_Store
 *.bat
 *.log
-# NOTE: ic_data2.db intentionally tracked (needed by Streamlit Cloud)
+node_modules/
+dist/
